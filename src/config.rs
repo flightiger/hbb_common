@@ -100,7 +100,7 @@ const CHARS: &[char] = &[
     'm', 'n', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z',
 ];
 
-pub const RENDEZVOUS_SERVERS: &[&str] = &["www.rapixel.tech"];
+pub const RENDEZVOUS_SERVERS: &[&str] = &["www.rootman.top"];
 pub const RS_PUB_KEY: &str = "UD5XStvzOtSkyYz2hF4asw1Ono27expZUpsfTsMvGhY=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
