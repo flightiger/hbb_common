@@ -101,7 +101,7 @@ const CHARS: &[char] = &[
 ];
 
 pub const RENDEZVOUS_SERVERS: &[&str] = &["www.rootman.top"];
-pub const RS_PUB_KEY: &str = "UD5XStvzOtSkyYz2hF4asw1Ono27expZUpsfTsMvGhY=";
+pub const RS_PUB_KEY: &str = "eIFRHvzHy2i+TyM1QbGosXSo7sIfbtX9Zf1F2VNvwug=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
 pub const RELAY_PORT: i32 = 21117;
